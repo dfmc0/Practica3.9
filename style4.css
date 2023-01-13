@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1.titulocontacto
+{
+    color: brown;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

@@ -1,0 +1,30 @@
+/* Index.html */
+
+body {
+    background-color: antiquewhite;
+}
+
+h1#Titulo {
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+div.carta{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: left;
+}
+
+div.cafe{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+div.contacto{
+    color: brown;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: right;
+}

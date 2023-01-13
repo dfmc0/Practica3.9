@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+h1.titulocafe{
+    color: brown;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.cafe{
+    color: brown;
+}
