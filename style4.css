@@ -8,3 +8,20 @@ h1.titulocontacto
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
+div.contenido{
+    text-align: center;
+    
+}
+p.Direccion{
+    color: brown;
+    border-style: dashed;
+}
+
+div.Telefono{
+    color: brown;
+    border-style: dashed;
+}
+div.Correo{
+    color: brown;
+    border-style: dashed;
+}
